@@ -1,0 +1,9 @@
+#!/bin/sh
+
+mkdir -p /usr/local/bin
+mkdir /usr/share/gui_shell/apps/betty
+cd `dirname $0`
+cp -f manifest.xml betty_boox_logo.png   /usr/share/gui_shell/apps/betty/
+cp -f betty /usr/local/bin/
+cp -f betty.oar /usr/local/bin/
+reboot

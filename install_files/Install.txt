@@ -1,0 +1,4 @@
+This installs the betty boox terminal emulator for the onyx boox m92
+Copy the directory to your boox and run install.oar. This will add a
+launcher in the Applications menu.
+You can remove the program by running remove.oar

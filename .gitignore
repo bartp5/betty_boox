@@ -1,0 +1,5 @@
+Makefile
+betty
+ui_*.h
+*.o
+moc_*.cpp

@@ -1,0 +1,4 @@
+#!/bin/sh
+
+cd /media/flash/
+/usr/local/bin/betty

@@ -1,0 +1,6 @@
+#!/bin/sh
+
+rm -rf /usr/share/gui_shell/apps/betty
+rm -f /usr/local/bin/betty
+rm -f /usr/local/bin/betty.oar
+reboot

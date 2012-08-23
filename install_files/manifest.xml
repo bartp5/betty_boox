@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Application>
+  <Author>bartp5</Author>
+  <Org>bartp5</Org>
+  <Name>Betty Boox</Name>
+  <Title>Betty Boox</Title>
+  <cover>betty_boox_logo.png</cover>
+  <AppBin>/usr/local/bin/betty.oar</AppBin>
+</Application>
